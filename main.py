@@ -13,7 +13,7 @@ currentPage = 1
 entryList = []
 moodList = []
 whyList = []
-
+#chnge
 # START OF GENERAL FUNCTIONS (incomplete)
 # combining individual functions for changing page into one function
 def changePage(new):
